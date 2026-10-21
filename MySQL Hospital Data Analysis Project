@@ -1,0 +1,26 @@
+# MySQL Hospital Data Analysis Project
+
+## Project Objective
+The objective of this project is to analyze hospital data using MySQL and generate useful insights.
+
+## Skills Used
+- MySQL
+- SELECT, WHERE
+- GROUP BY, ORDER BY
+- Aggregate Functions (SUM, AVG, COUNT, MAX, MIN)
+- SQL Date Functions
+
+## Analysis
+- Total number of patients
+- Department-wise patient analysis
+- Hospital medical expenses
+- Average hospital stay
+- City-wise patient analysis
+- Monthly medical expenses
+
+## Tools
+- MySQL
+- SQL
+
+## Conclusion
+This project helped me practice SQL queries and develop data analysis skills.
